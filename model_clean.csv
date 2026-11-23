@@ -1,0 +1,104 @@
+21?,night_out_last30,under_influence,age,gender,finance,day_of_week,plan_rating,pregame,hours_out,money_spent_usd,alcohol_consumed,nonAlcoholic_substance,locations_or_venues_visited,y,pregame_needed_q,money_needed_night_out,alcohol_needed_q,height_cm,education_ranking,neighborhood,survey_source_clean,start_hour_model,venue_clean,group_size,with_friends,with_partner,with_family,with_coworkers,with_mixed_other,with_alone,sobriety_clean,ate_nothing,ate_at_home,ate_delivery,ate_restaurant,night_end_hour_model,preferred_venue,ideal_group_size,transport_clean,substance_Maybe,substance_Yes,sobriety_ideal,ideal_location_visits
+Yes,Yes,No,21.0,Male,4.0,Friday,3,Yes,5.0,150.0,Yes,No,3,3.0,No,50.0,No,180.34,2,Balboa,University,20.0,Bar / Nightclub,8,1,1,0,0,1,0,Tipsy,0,1,0,0,25.0,Restaurant,0,Rideshare,0,0,Tipsy,2
+Yes,Yes,No,21.0,Male,3.0,Saturday,4,Yes,6.0,30.0,Yes,No,4,8.0,Yes,40.0,Yes,182.88,2,Sunset,University,19.0,Bar / Nightclub,8,1,0,1,0,0,0,Drunk,0,1,0,0,27.0,Nightclub,6,Rideshare,0,0,Tipsy,3
+Yes,Yes,No,22.0,Female,2.0,Wednesday,4,No,5.0,10.0,No,No,2,8.0,No,15.0,No,,2,Anza Vista,University,17.0,Restaurant / Cafe,5,1,0,0,0,0,0,Sober,1,0,0,0,22.0,Home,4,Passenger,0,0,Sober,2
+Yes,Yes,No,21.0,Male,5.0,Saturday,2,No,5.0,125.0,No,No,3,10.0,No,200.0,No,193.04,2,USF Campus,University,12.0,Restaurant / Cafe,1,0,0,0,0,0,1,Sober,0,0,1,0,26.0,Restaurant,2,Rideshare,0,0,Sober,5
+Yes,No,No,22.0,Female,4.0,Friday,1,No,3.0,100.0,Yes,No,3,6.0,No,100.0,Yes,164.0,2,Lone Mountain,University,23.333333333333332,Bar / Nightclub,3,1,0,0,0,0,0,Tipsy,0,0,0,1,23.0,Restaurant,2,Driving,0,0,Tipsy,2
+No,Yes,No,20.0,Female,3.0,Friday,4,No,5.0,0.0,Yes,Yes,1,10.0,Yes,40.0,Yes,165.1,2,Richmond,University,21.0,Home,4,1,0,0,0,1,0,Tipsy,0,1,0,0,25.0,Bar,4,Public Transit,0,1,,2
+Yes,Yes,No,26.0,Male,3.0,Saturday,4,Yes,6.0,40.0,Yes,Yes,1,10.0,No,50.0,No,167.64,3,Unknown,University,20.0,Home,8,1,1,0,0,0,0,Sober,1,0,0,0,26.0,Home,6,Driving,0,0,,2
+Yes,Yes,No,27.0,Female,4.0,Friday,4,Yes,3.0,100.0,Yes,No,2,9.0,No,50.0,Yes,160.02,5,Unknown,Social Media,23.5,Bar / Nightclub,4,0,1,1,0,0,0,Drunk,1,0,0,0,26.0,Bar,3,Rideshare,1,0,Tipsy,2
+Yes,Yes,No,25.0,Male,3.0,Saturday,4,Yes,5.0,200.0,Yes,Yes,3,10.0,Yes,100.0,Yes,,3,Mission,Social Media,22.0,Bar / Nightclub,8,1,0,0,0,0,0,Drunk,0,1,0,0,27.0,Nightclub,5,Walking,0,0,,2
+Yes,Yes,No,23.0,Non-Binary,4.0,Saturday,2,Yes,4.0,50.0,Yes,Yes,1,9.0,Yes,100.0,Yes,167.64,4,Unknown,Personal Referral,22.0,Bar / Nightclub,8,1,1,0,0,1,0,Tipsy,0,0,1,0,26.0,Nightclub,8,Rideshare,0,1,,5
+Yes,Yes,No,27.0,Male,4.0,Wednesday,1,No,4.0,25.0,Yes,Yes,2,9.0,Yes,50.0,Yes,,2,Lower Pacific Heights,Social Media,21.5,Bar / Nightclub,3,1,0,0,0,0,0,Tipsy,0,0,0,1,14.0,Nightclub,4,Walking,0,0,Tipsy,2
+Yes,Yes,No,21.0,Male,3.0,Friday,3,Yes,3.0,30.0,Yes,No,1,5.0,Yes,15.0,Yes,172.72,2,Unknown,Personal Referral,22.0,Bar / Nightclub,7,1,0,0,0,0,0,Tipsy,0,1,0,0,24.0,Home,8,Rideshare,0,0,Drunk,1
+Yes,Yes,No,21.0,Male,1.0,Saturday,3,Yes,3.0,80.0,Yes,No,1,3.0,No,20.0,No,172.72,2,Unknown,Social Media,25.0,Bar / Nightclub,2,0,1,0,0,0,0,Sober,0,0,0,1,25.0,Home,4,Public Transit,1,0,Sober,1
+No,No,No,19.0,Male,3.0,Friday,4,No,3.0,50.0,No,No,1,8.0,No,150.0,No,182.88,2,USF Campus,Personal Referral,22.0,Restaurant / Cafe,5,1,0,0,0,0,0,Sober,1,0,0,0,25.0,Restaurant,4,Passenger,0,0,Sober,2
+Yes,Yes,No,35.0,Female,4.0,Wednesday,2,Yes,6.0,40.0,Yes,No,3,10.0,No,50.0,No,157.48,3,Ingleside,Personal Referral,21.0,Bar / Nightclub,4,1,0,0,0,0,0,Tipsy,0,0,0,1,26.5,Bar,2,Passenger,0,0,Tipsy,3
+Yes,Yes,No,27.0,Female,3.0,Saturday,1,No,3.0,150.0,Yes,No,2,6.0,Yes,500.0,Yes,165.1,3,Unknown,Social Media,22.666666666666668,Bar / Nightclub,7,1,1,0,0,0,0,Tipsy,0,0,1,0,27.0,Home,8,Rideshare,0,1,,3
+Yes,Yes,No,29.0,Female,5.0,Friday,4,No,4.0,0.0,Yes,No,2,8.0,Yes,100.0,Yes,152.4,3,Lower Pacific Heights,Social Media,23.0,Home,8,1,1,0,0,0,0,Sober,0,0,1,0,26.0,Home,8,Driving,1,0,Sober,2
+Yes,Yes,No,29.0,Non-Binary,3.0,Saturday,4,Yes,5.0,120.0,Yes,Yes,2,8.0,No,100.0,No,175.26,3,Unknown,Social Media,21.0,Bar / Nightclub,8,1,0,0,0,0,0,Tipsy,0,0,1,0,27.0,Bar,6,Rideshare,1,0,,2
+Yes,Yes,No,28.0,Male,3.0,Friday,3,Yes,5.0,0.0,Yes,No,3,8.0,Yes,30.0,No,180.34,3,Outside SF,Social Media,21.75,Bar / Nightclub,3,1,0,0,0,0,0,Tipsy,0,0,1,0,27.0,Nightclub,2,Driving,0,0,Tipsy,3
+No,No,No,20.0,Female,4.0,Saturday,3,No,8.0,50.0,No,No,3,9.0,No,45.0,No,170.18,2,Ingleside,University,16.0,Outdoors / Public,4,1,0,0,0,0,0,Sober,0,0,0,1,23.0,Home,5,Passenger,0,0,Sober,3
+No,Yes,No,20.0,Female,2.0,Thursday,4,Yes,4.0,80.0,Yes,No,3,7.0,Yes,50.0,Yes,157.48,2,Unknown,University,22.0,Bar / Nightclub,4,1,0,0,0,0,0,Drunk,1,0,0,0,28.0,Bar,4,Walking,1,0,,4
+No,Yes,No,20.0,Female,1.0,Saturday,4,No,6.0,0.0,No,No,3,9.0,No,30.0,No,157.48,2,Sunset,University,17.0,Restaurant / Cafe,2,0,1,0,0,0,0,Sober,0,1,0,0,23.0,Home,4,Passenger,0,0,Tipsy,2
+Yes,Yes,No,21.0,Male,2.0,Friday,4,Yes,5.0,20.0,Yes,No,3,8.0,Yes,25.0,Yes,177.8,2,Unknown,University,19.0,Home,4,1,1,0,0,0,0,Drunk,1,0,0,0,25.0,Home,6,Rideshare,0,0,Drunk,3
+Yes,Yes,No,26.0,Male,3.0,Wednesday,1,No,5.0,80.0,Yes,Yes,3,8.0,No,60.0,Yes,162.56,3,Unknown,Personal Referral,18.0,Bar / Nightclub,5,1,0,0,0,0,0,Drunk,0,0,0,1,28.0,Nightclub,5,Public Transit,1,0,,3
+Yes,Yes,No,27.0,Female,3.0,Monday,3,No,4.0,35.0,No,No,2,10.0,No,30.0,Yes,,3,Unknown,Social Media,19.833333333333332,Restaurant / Cafe,6,1,0,0,0,0,0,Sober,0,0,0,1,25.0,Home,5,Passenger,1,0,Tipsy,2
+Yes,Yes,No,21.0,Female,4.0,Saturday,2,Yes,4.0,15.0,Yes,No,1,8.0,No,20.0,No,,2,Richmond,University,21.0,Home,5,1,1,0,0,0,0,Tipsy,0,0,0,1,24.5,Other,4,Walking,0,0,Sober,2
+Yes,Yes,Yes,21.0,Male,2.0,Saturday,3,No,7.0,40.0,No,Yes,2,8.0,No,30.0,No,172.72,2,Outside SF,University,18.0,Outdoors / Public,5,1,0,0,0,0,0,Unspecified intoxication,0,1,0,0,25.5,Home,8,Driving,1,0,Unspecified Intoxication,2
+No,Yes,No,20.0,Male,3.0,Friday,4,Yes,6.0,22.0,Yes,No,1,10.0,No,10.0,No,,2,Sunset,Social Media,21.0,Home,3,1,0,0,1,0,0,Drunk,0,1,0,0,25.0,Home,3,Rideshare,0,0,Sober,1
+Yes,Yes,No,25.0,Male,3.0,Friday,4,No,6.0,150.0,Yes,No,3,7.0,No,75.0,No,160.02,4,Unknown,Personal Referral,18.0,Party / Event,8,1,0,0,0,0,0,Sober,0,0,0,1,12.0,Restaurant,4,Public Transit,1,0,Sober,3
+Yes,Yes,No,21.0,Female,5.0,Thursday,4,Yes,3.0,15.0,Yes,No,1,9.0,No,20.0,Yes,,2,Lone Mountain,University,21.0,Bar / Nightclub,2,1,0,0,0,0,0,Tipsy,0,1,0,0,24.5,Bar,4,Walking,0,0,Tipsy,2
+Yes,Yes,No,22.0,Female,3.0,Saturday,2,Yes,3.0,30.0,Yes,No,3,9.0,No,50.0,No,167.64,2,Lone Mountain,University,22.0,Bar / Nightclub,6,1,0,0,0,0,0,Drunk,0,0,1,0,25.0,Restaurant,4,Rideshare,0,0,Tipsy,3
+Yes,Yes,No,30.0,Male,1.0,Wednesday,4,No,6.0,5.0,No,No,1,10.0,No,15.0,No,185.42,3,Presidio,Personal Referral,30.75,Party / Event,8,1,0,0,0,1,0,Sober,0,1,0,0,12.0,Nightclub,8,Public Transit,0,0,Sober,2
+No,Yes,No,19.0,Male,3.0,Friday,1,Yes,8.0,100.0,Yes,No,4,10.0,Yes,80.0,No,177.8,2,Unknown,University,20.0,Home,5,1,0,0,0,0,1,Drunk,0,0,1,0,26.0,Home,2,Walking,0,1,Drunk,3
+No,Yes,No,19.0,Male,3.0,Tuesday,1,No,7.0,50.0,Yes,No,2,10.0,No,80.0,Yes,190.5,2,Unknown,University,18.5,Restaurant / Cafe,4,1,1,0,0,0,0,Sober,1,0,0,0,24.0,Restaurant,4,Public Transit,0,0,Sober,2
+Yes,Yes,No,23.0,Female,3.0,Friday,4,Yes,4.0,14.0,Yes,No,2,8.0,Yes,0.0,Yes,162.56,2,SoMa,University,21.0,Home,8,1,0,0,0,0,0,Drunk,1,0,0,0,26.0,Nightclub,5,Rideshare,0,0,Tipsy,3
+Yes,Yes,No,21.0,Female,3.0,Thursday,2,No,7.0,120.0,Yes,No,4,10.0,No,100.0,Yes,175.26,2,Richmond,University,18.5,Bar / Nightclub,3,1,0,0,0,0,0,Drunk,0,0,0,1,26.0,Bar,3,Public Transit,1,0,Drunk,3
+No,Yes,No,20.0,Male,2.0,Thursday,3,No,2.0,15.0,No,No,1,7.0,No,25.0,No,,3,Irving,Bar / Nightlife,18.3,Restaurant / Cafe,6,1,0,0,1,0,0,Sober,0,0,0,1,27.0,Home,6,Walking,0,1,,2
+No,Yes,No,20.0,Female,2.0,Friday,3,No,5.0,40.0,Yes,No,2,9.0,Yes,75.0,Yes,165.1,2,Lone Mountain,University,22.25,Home,4,1,0,0,0,0,0,Drunk,0,1,0,0,26.0,Nightclub,4,Rideshare,1,0,Drunk,3
+No,Yes,No,18.0,Female,4.0,Friday,2,Yes,4.0,20.0,Yes,Yes,2,6.0,Yes,35.0,Yes,175.26,2,Lone Mountain,University,21.0,Home,4,1,0,0,0,0,0,Tipsy,1,0,0,0,25.0,Home,4,Walking,0,0,Tipsy,2
+No,No,No,18.0,Male,2.0,Monday,3,No,3.0,10.0,No,No,6,8.0,No,60.0,No,177.8,2,Golden Gate,University,16.0,Restaurant / Cafe,2,1,0,0,0,0,0,Sober,1,0,0,0,24.0,Home,5,Rideshare,0,0,Sober,3
+No,No,No,19.0,Female,5.0,Saturday,3,No,5.0,50.0,Yes,No,2,8.0,No,250.0,Yes,154.94,2,USF Campus,University,17.0,Other Venue,4,0,0,1,0,0,0,Sober,0,0,0,1,24.0,Home,2,Passenger,0,0,Tipsy,2
+No,No,Yes,19.0,Female,4.0,Saturday,4,No,3.0,130.0,No,No,2,8.0,No,100.0,No,,2,Lone Mountain,University,17.0,Other / Unknown,2,1,0,0,0,0,0,Sober,1,0,0,0,20.0,Other,4,Public Transit,0,0,Sober,3
+No,Yes,No,19.0,Female,3.0,Monday,4,No,3.0,30.0,No,No,1,8.0,No,200.0,No,,2,USF Campus,University,18.5,Other Venue,6,1,0,0,0,0,0,Sober,1,0,0,0,22.0,Other,3,Walking,0,0,Sober,5
+Yes,Yes,No,27.0,Female,4.0,Saturday,4,Yes,6.0,80.0,Yes,No,3,6.0,Yes,80.0,Yes,170.18,2,Lower Pacific Heights,Personal Referral,20.0,Bar / Nightclub,8,1,1,0,0,0,0,Tipsy,1,0,0,0,26.0,Nightclub,5,Public Transit,0,0,Drunk,2
+Yes,Yes,No,25.0,Non-Binary,4.0,Thursday,3,No,6.0,75.0,No,No,3,9.0,No,90.0,No,162.56,2,Unknown,Social Media,14.5,Other Venue,2,0,0,1,0,0,0,Sober,0,0,0,1,21.0,Restaurant,4,Passenger,0,0,Sober,2
+Yes,Yes,No,26.0,Male,4.0,Saturday,4,Yes,5.0,30.0,Yes,Yes,4,7.0,No,20.0,No,167.64,4,Unknown,Social Media,21.0,Bar / Nightclub,6,1,0,0,0,0,0,Tipsy,0,0,0,1,27.0,Home,5,Walking,0,0,Drunk,4
+Yes,Yes,Yes,26.0,Non-Binary,4.0,Thursday,3,No,10.0,60.0,Yes,No,3,8.0,Yes,50.0,Yes,162.56,5,Outside SF,Unknown,17.0,Bar / Nightclub,2,1,0,0,0,0,0,Tipsy,0,0,1,0,26.0,Nightclub,6,Public Transit,1,0,Unspecified Intoxication,2
+No,Yes,No,19.0,Male,2.0,Saturday,4,Yes,4.0,0.0,Yes,Yes,2,3.0,Yes,20.0,Yes,175.26,2,Unknown,Social Media,21.0,Home,8,1,0,0,0,0,0,Unspecified intoxication,0,1,0,0,25.5,Home,6,Walking,1,0,Drunk,1
+Yes,Yes,Yes,27.0,Female,3.0,Wednesday,4,Yes,5.0,75.0,Yes,No,2,10.0,Yes,125.0,Yes,160.02,5,Outside SF,Social Media,18.0,Restaurant / Cafe,2,1,0,0,1,0,0,Drunk,1,0,0,0,25.75,Bar,4,Driving,0,1,,2
+Yes,Yes,Yes,29.0,Male,4.0,Friday,3,Yes,3.0,180.0,Yes,No,3,10.0,No,100.0,Yes,,5,Outside SF,Social Media,17.5,Bar / Nightclub,2,0,1,0,0,0,0,Drunk,0,0,0,1,26.0,Other,4,Walking,1,0,Tipsy,3
+Yes,Yes,No,27.0,Non-Binary,3.0,Saturday,4,Yes,8.0,200.0,Yes,Yes,3,6.0,Yes,80.0,Yes,182.88,1,Unknown,Personal Referral,18.0,Bar / Nightclub,8,1,0,0,0,0,0,Drunk,0,0,0,1,24.0,Bar,5,Public Transit,0,1,,1
+Yes,Yes,No,22.0,Male,4.0,Friday,3,Yes,4.5,40.0,Yes,No,4,9.0,No,60.0,Yes,185.42,2,Richmond,Bar / Nightlife,21.0,Bar / Nightclub,8,1,0,0,1,0,0,Unspecified intoxication,1,0,0,0,25.0,Bar,5,Public Transit,0,0,Tipsy,3
+Yes,Yes,No,24.0,Female,5.0,Tuesday,2,No,7.0,3.0,Yes,No,1,10.0,No,50.0,No,,3,Excelsior,Work,19.0,Home,4,1,0,0,0,0,0,Tipsy,0,1,0,0,24.0,Home,4,Public Transit,0,0,Sober,2
+Yes,Yes,No,24.0,Female,4.0,Friday,3,Yes,5.0,50.0,Yes,No,3,7.0,Yes,40.0,No,167.64,3,Forest Hill,Personal Referral,20.0,Restaurant / Cafe,5,1,1,0,1,0,0,Tipsy,1,0,0,0,23.0,Home,3,Passenger,0,0,Tipsy,3
+Yes,Yes,No,26.0,Male,4.0,Friday,4,No,2.0,0.0,No,No,2,7.0,No,50.0,No,177.8,3,Ingleside,Personal Referral,17.0,Bar / Nightclub,8,1,0,0,0,0,0,Sober,0,0,0,1,22.0,Home,6,Public Transit,0,0,Sober,2
+Yes,Yes,No,27.0,Female,3.0,Thursday,4,No,8.0,40.0,No,No,2,10.0,No,150.0,No,165.1,1,Unknown,Personal Referral,20.0,Other Venue,2,0,1,0,0,0,0,Sober,0,0,0,1,26.0,Home,4,Passenger,0,0,Sober,3
+Yes,No,No,25.0,Male,3.0,Friday,1,Yes,5.0,40.0,Yes,No,3,8.0,Yes,50.0,No,,2,Fillmore,University,20.0,Home,3,1,0,0,0,0,0,Tipsy,0,0,1,0,24.0,Bar,3,Rideshare,0,0,Tipsy,2
+No,Yes,No,20.0,Female,4.0,Saturday,3,No,5.0,45.0,No,No,1,7.0,No,20.0,No,157.48,2,Unknown,University,21.0,Bar / Nightclub,5,1,0,0,0,0,0,Sober,0,0,0,1,27.0,Nightclub,4,Rideshare,0,0,Sober,2
+No,Yes,No,20.0,Female,3.0,Friday,3,No,7.0,15.0,Yes,No,1,10.0,No,10.0,Yes,,2,Richmond,University,22.0,Home,8,1,0,0,1,0,0,Drunk,0,1,0,0,27.0,Home,6,Walking,0,0,Tipsy,2
+Yes,Yes,No,21.0,Male,2.0,Saturday,3,No,5.0,35.0,No,No,2,7.0,No,30.0,No,167.64,2,Sunset,Personal Referral,18.0,Restaurant / Cafe,6,1,0,0,0,0,0,Sober,1,0,0,0,21.0,Restaurant,4,Driving,0,0,Sober,2
+Yes,Yes,No,21.0,Male,2.0,Friday,3,Yes,7.0,60.0,Yes,Yes,2,5.0,Yes,50.0,Yes,167.64,4,Portola,University,25.0,Home,5,0,0,0,0,0,1,Drunk,0,0,1,0,28.0,Restaurant,4,Rideshare,0,1,Tipsy,2
+No,Yes,Yes,20.0,Female,3.0,Saturday,4,No,5.0,20.0,Yes,No,1,10.0,No,35.0,No,167.64,2,Richmond,University,19.0,Other Venue,8,1,0,0,0,1,0,Tipsy,0,1,0,0,24.0,Home,7,Public Transit,1,0,,1
+Yes,Yes,No,21.0,Male,3.0,Thursday,3,Yes,4.0,0.0,Yes,No,1,8.0,Yes,0.0,Yes,,2,Unknown,Social Media,22.0,Bar / Nightclub,8,1,0,0,0,1,0,Tipsy,1,0,0,0,26.0,Bar,5,Walking,0,0,Sober,1
+Yes,Yes,Yes,23.0,Female,3.0,Saturday,3,Yes,4.0,0.0,Yes,No,1,6.0,Yes,30.0,Yes,162.56,2,Unknown,Personal Referral,23.0,Bar / Nightclub,4,1,0,0,0,1,0,Drunk,1,0,0,0,27.0,Home,4,Rideshare,0,0,Drunk,2
+Yes,Yes,Yes,27.0,Female,2.0,Saturday,1,Yes,2.0,30.0,Yes,No,3,7.0,Yes,50.0,Yes,,1,Unknown,Bar / Nightlife,24.0,Bar / Nightclub,3,1,0,0,0,0,0,Drunk,1,0,0,0,28.0,Bar,3,Driving,0,0,Drunk,2
+Yes,Yes,Yes,22.0,Female,4.0,Saturday,2,No,10.0,230.0,Yes,Yes,3,10.0,Yes,200.0,Yes,165.1,5,Sunset,Bar / Nightlife,26.266666666666666,Bar / Nightclub,5,1,0,0,0,0,0,Drunk,0,0,1,0,30.0,Bar,8,Rideshare,0,1,Drunk,3
+Yes,Yes,Yes,22.0,Female,5.0,Saturday,2,Yes,7.0,70.0,Yes,Yes,3,10.0,Yes,100.0,Yes,167.64,5,Sunset,Bar / Nightlife,32.0,Bar / Nightclub,5,1,0,0,0,0,0,Drunk,0,1,0,0,30.0,Bar,5,Rideshare,0,1,,3
+Yes,Yes,Yes,25.0,Male,1.0,Saturday,1,No,4.0,40.0,Yes,No,1,7.0,No,70.0,Yes,175.26,1,Unknown,Bar / Nightlife,22.0,Bar / Nightclub,2,1,0,0,0,0,0,Sober,0,0,0,1,27.5,Bar,3,Driving,0,0,Tipsy,2
+Yes,Yes,Yes,22.0,Female,3.0,Saturday,3,No,6.0,70.0,Yes,No,2,10.0,Yes,80.0,No,160.02,3,Sunset,Bar / Nightlife,21.0,Bar / Nightclub,5,1,0,0,0,0,0,Tipsy,0,0,1,0,27.0,Home,5,Rideshare,1,0,,2
+Yes,No,No,30.0,Male,3.0,Friday,3,No,2.0,15.0,No,No,1,8.0,No,30.0,No,182.88,5,Unknown,Personal Referral,15.5,Other Venue,2,1,0,0,1,0,0,Sober,1,0,0,0,24.0,Home,6,Driving,0,0,Tipsy,2
+Yes,Yes,Yes,23.0,Male,3.0,Saturday,3,Yes,4.0,80.0,Yes,No,3,10.0,Yes,130.0,Yes,165.1,4,Bayview,Bar / Nightlife,23.333333333333332,Bar / Nightclub,8,1,0,0,0,0,0,Drunk,0,0,0,1,29.0,Home,8,Rideshare,1,0,,3
+Yes,Yes,No,22.0,Male,2.0,Saturday,3,Yes,4.0,60.0,Yes,Yes,1,4.0,No,80.0,No,195.58,2,Parkmerced,University,22.5,Bar / Nightclub,6,1,1,0,0,0,0,Drunk,0,0,1,0,26.0,Bar,5,Rideshare,1,0,,2
+No,Yes,No,18.0,Male,5.0,Friday,3,No,1.0,8.0,No,No,2,9.0,No,10.0,No,172.72,2,Unknown,University,22.75,Restaurant / Cafe,4,1,0,0,0,0,0,Sober,0,0,0,1,24.0,Restaurant,4,Walking,0,0,Sober,2
+Yes,Yes,No,35.0,Male,3.0,Tuesday,3,Yes,4.5,300.0,Yes,Yes,2,9.0,No,200.0,Yes,182.88,4,Japantown,University,18.5,Restaurant / Cafe,2,0,1,0,0,0,0,Unspecified intoxication,0,1,0,0,23.0,Bar,6,Rideshare,1,0,Tipsy,2
+No,Yes,No,20.0,Female,4.0,Friday,3,Yes,4.5,12.0,Yes,No,3,9.0,Yes,20.0,Yes,157.48,2,Lone Mountain,University,22.0,Home,8,1,0,0,0,0,0,Drunk,0,0,1,0,25.0,Home,7,Walking,0,0,Tipsy,2
+No,Yes,No,19.0,Male,4.0,Friday,2,Yes,5.0,10.0,No,No,1,8.0,No,25.0,No,177.8,2,Mission Bay,University,20.0,Home,8,1,0,0,0,0,0,Sober,0,0,1,0,25.5,Home,4,Rideshare,0,0,Sober,2
+Yes,Yes,No,48.0,Male,3.0,Thursday,2,No,4.0,50.0,No,No,1,9.0,No,75.0,No,177.8,5,Unknown,University,19.0,Restaurant / Cafe,2,1,0,0,1,0,0,Sober,0,0,0,1,24.5,Bar,4,Walking,0,0,Sober,1
+No,No,No,19.0,Female,3.0,Saturday,3,No,4.0,6.0,No,No,2,9.0,No,20.0,No,157.48,2,Mission,University,20.0,Party / Event,3,1,0,0,0,0,0,Sober,0,0,0,1,24.0,Nightclub,4,Public Transit,0,0,Sober,2
+No,No,No,18.0,Female,5.0,Saturday,3,No,4.0,5.0,Yes,No,1,7.0,No,50.0,No,160.02,2,USF Campus,University,20.5,Home,7,1,1,0,0,0,0,Tipsy,1,0,0,0,20.0,Restaurant,2,Rideshare,0,0,Sober,3
+Yes,Yes,No,21.0,Male,2.0,Friday,3,Yes,3.0,20.0,Yes,No,2,4.0,Yes,15.0,Yes,177.8,2,Richmond,University,22.0,Bar / Nightclub,8,1,1,0,0,0,0,Sober,1,0,0,0,26.0,Home,5,Rideshare,1,0,Tipsy,2
+No,Yes,No,20.0,Female,1.0,Saturday,3,No,3.0,35.0,Yes,No,2,5.0,Yes,40.0,Yes,162.56,2,USF Campus,University,23.5,Bar / Nightclub,5,1,0,0,0,0,0,Sober,0,1,0,0,25.0,Bar,4,Rideshare,0,0,Tipsy,3
+No,Yes,No,18.0,Female,4.0,Tuesday,4,No,6.0,250.0,Yes,No,2,9.0,No,100.0,Yes,182.88,2,Richmond,University,16.5,Party / Event,4,0,0,1,0,0,0,Tipsy,1,0,0,0,24.0,Home,6,Walking,0,0,Tipsy,2
+No,No,No,18.0,Male,4.0,Friday,3,No,2.0,20.0,No,No,2,8.0,No,70.0,No,167.64,2,Miraloma,University,12.0,Other Venue,3,1,0,0,0,0,0,Sober,0,0,0,1,21.0,Other,3,Walking,0,0,Sober,2
+No,No,No,19.0,Male,4.0,Friday,1,No,1.0,30.0,No,No,1,10.0,No,40.0,No,175.26,2,Unknown,University,19.0,Other Venue,2,0,1,0,0,0,0,Sober,0,1,0,0,21.0,Restaurant,2,Public Transit,0,0,Sober,1
+No,Yes,No,18.0,Female,2.0,Friday,1,Yes,3.0,20.0,Yes,Yes,1,8.0,No,15.0,No,162.56,2,USF Campus,University,23.5,Bar / Nightclub,4,0,0,0,1,0,0,Drunk,0,0,0,1,25.0,Cafe,4,Public Transit,1,0,Sober,3
+Yes,Yes,No,21.0,Female,3.0,Saturday,2,Yes,2.0,30.0,Yes,Yes,1,7.0,Yes,20.0,Yes,170.18,2,Richmond,University,23.0,Bar / Nightclub,4,1,0,0,0,0,0,Drunk,1,0,0,0,26.5,Bar,6,Rideshare,1,0,,2
+No,Yes,No,18.0,Female,5.0,Friday,2,Yes,4.0,0.0,Yes,Yes,1,8.0,Yes,20.0,No,165.1,2,USF Campus,University,20.0,Party / Event,4,1,0,0,0,0,0,Tipsy,1,0,0,0,24.0,Nightclub,4,Public Transit,1,0,,1
+No,Yes,No,19.0,Male,5.0,Friday,3,Yes,5.0,80.0,Yes,Yes,3,8.0,Yes,100.0,Yes,195.58,2,USF Campus,University,21.0,Home,6,1,0,0,0,0,0,Drunk,0,0,1,0,27.0,Bar,8,Rideshare,0,1,,4
+No,Yes,No,19.0,Male,2.0,Saturday,2,Yes,5.0,25.0,Yes,No,2,6.0,Yes,40.0,No,177.8,2,USF Campus,University,20.5,Outdoors / Public,3,1,0,0,0,0,0,Tipsy,0,1,0,0,26.0,Other,6,Public Transit,0,0,Drunk,2
+No,Yes,No,18.0,Male,5.0,Saturday,2,Yes,4.0,50.0,No,No,1,7.0,Yes,50.0,Yes,172.72,2,Unknown,University,20.0,Bar / Nightclub,3,1,0,0,0,0,0,Tipsy,0,1,0,0,23.0,Home,4,Public Transit,0,0,Tipsy,1
+No,Yes,No,20.0,Male,3.0,Saturday,3,No,7.0,30.0,No,Yes,4,9.0,Yes,50.0,Yes,187.96,2,Panhandle,University,22.0,Outdoors / Public,5,1,0,0,0,0,0,Sober,0,0,0,1,29.0,Other,4,Passenger,1,0,Sober,5
+No,Yes,No,20.0,Male,4.0,Sunday,3,Yes,4.0,30.0,Yes,No,2,8.0,No,15.0,Yes,170.18,2,USF Campus,University,20.0,Home,8,1,0,0,0,0,0,Tipsy,0,0,1,0,24.0,Home,6,Passenger,0,0,Tipsy,1
+Yes,Yes,No,21.0,Female,2.0,Friday,2,Yes,6.0,0.0,Yes,Yes,3,7.0,Yes,0.0,Yes,167.64,2,Laurel Heights,University,21.0,Bar / Nightclub,8,0,1,0,0,0,0,Drunk,0,1,0,0,26.0,Bar,8,Rideshare,0,0,Tipsy,2
+No,Yes,No,19.0,Male,2.0,Saturday,2,Yes,5.0,32.0,Yes,Yes,5,8.0,Yes,15.0,Yes,182.88,2,Richmond,University,22.0,Bar / Nightclub,3,1,0,0,0,0,0,Drunk,1,0,0,0,26.0,Bar,5,Rideshare,0,1,,5
+No,No,No,20.0,Female,3.0,Saturday,2,No,3.0,70.0,No,No,2,7.0,No,50.0,No,165.1,2,Richmond,University,20.0,Restaurant / Cafe,5,1,0,0,0,0,0,Sober,1,0,0,0,24.0,Home,5,Public Transit,0,0,Sober,2
+Yes,Yes,No,21.0,Female,3.0,Friday,4,No,5.0,40.0,Yes,No,1,6.0,No,100.0,Yes,157.48,2,Unknown,University,20.0,Party / Event,5,1,1,1,0,0,0,Tipsy,0,0,0,1,26.0,Home,4,Passenger,0,0,Tipsy,2
+Yes,No,No,21.0,Female,3.0,Saturday,3,No,2.0,0.0,Yes,No,1,10.0,No,50.0,No,,2,Unknown,University,21.0,Home,8,1,0,0,0,0,0,Sober,0,0,1,0,22.0,Home,4,Public Transit,0,0,Sober,2
+Yes,Yes,No,49.0,Female,3.0,Friday,4,No,3.0,0.0,No,No,1,7.0,No,75.0,No,,3,Sunset,University,19.0,Other Venue,8,0,0,0,1,1,0,Sober,0,1,0,0,21.0,Restaurant,4,Driving,0,0,Sober,2
+No,No,No,19.0,Non-Binary,4.0,Saturday,2,No,7.0,20.0,No,No,3,7.0,No,30.0,No,162.56,2,USF Campus,University,20.5,Bar / Nightclub,8,1,0,0,0,0,0,Sober,0,1,0,0,28.0,Nightclub,6,Public Transit,0,0,Sober,3
+No,No,No,18.0,Female,3.0,Friday,3,No,5.0,15.0,No,No,1,7.0,No,30.0,No,160.02,2,Lone Mountain,University,18.0,Party / Event,3,1,1,0,0,0,0,Sober,0,1,0,0,22.0,Home,5,Public Transit,0,0,Sober,2
+No,Yes,No,19.0,Female,3.0,Tuesday,4,No,5.0,20.0,No,Yes,2,7.0,No,20.0,No,167.64,2,USF Campus,University,20.0,Party / Event,2,1,0,0,0,0,1,Sober,0,0,0,1,24.0,Home,3,Public Transit,0,1,Sober,2
+No,Yes,No,19.0,Male,2.0,Saturday,3,No,4.0,25.0,Yes,No,2,8.0,No,100.0,No,,2,USF Campus,University,22.0,Outdoors / Public,3,1,0,0,0,0,0,Sober,1,0,0,0,33.0,Restaurant,2,Public Transit,0,0,Sober,2
+Yes,Yes,No,21.0,Female,3.0,Friday,2,Yes,4.0,50.0,Yes,No,3,8.0,Yes,0.0,Yes,170.18,2,Richmond,University,22.5,Bar / Nightclub,8,1,1,0,0,0,0,Drunk,0,1,0,0,26.5,Bar,8,Rideshare,1,0,,2
