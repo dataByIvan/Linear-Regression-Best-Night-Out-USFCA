@@ -1,3 +1,11 @@
+install.packages("glmnet", repos='http://cran.us.r-project.org')
+install.packages("ISLR", repos='http://cran.us.r-project.org')
+install.packages("ISLR2")
+install.packages("lmtest")
+library(ISLR2)
+library(glmnet, quietly = TRUE)
+library(ISLR, quietly = TRUE)
+library(lmtest)
 FinalDF <- read.csv("model_filled.csv", header = TRUE)
 TestOLS <- lm(y ~ ., data = FinalDF)
 x <- model.matrix(y ~., data = FinalDF)[, -1]
