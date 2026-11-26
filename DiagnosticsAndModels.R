@@ -8,7 +8,7 @@ library(ISLR, quietly = TRUE)
 library(lmtest)
 FinalDF <- read.csv("model_filled.csv", header = TRUE)
 TestOLS <- lm(y ~ ., data = FinalDF)
-x <- model.matrix(y ~., data = FinalDF)[, -1]
+x <- model.matrix(y ~., data = FinalDF)
 y <- FinalDF$y
 grid.lambda <- 10^seq(10, -2, length = 100)
 ridge.model <- glmnet(x, y, alpha = 0, lambda = grid.lambda)
